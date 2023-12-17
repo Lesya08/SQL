@@ -1,7 +1,7 @@
 Thumbs.db*
 .DS_Store
 HELP.md
-.gradle
+gradle/
 build/
 
 ### STS ###
@@ -18,7 +18,10 @@ build/
 *.iws
 *.iml
 *.ipr
+*.gradle
+*.bat
 out/
+gradlew
 
 ### NetBeans ###
 /nbproject/private/
@@ -31,7 +34,6 @@ out/
 .vscode/
 
 ### Package Files ###
-*.jar
 *.war
 *.nar
 *.ear
